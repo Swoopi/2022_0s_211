@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T20:32:48.445Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="aV03Qsy-hRXKwfelwqnh" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T20:39:50.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KMdJGVTQqywV6IvDTcl2" version="23.1.1" type="github">
   <diagram name="Page-1" id="HMGHrsQWz5TynOLCG9uY">
-    <mxGraphModel dx="594" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="710" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,6 +267,9 @@
             <mxPoint x="690" y="130" as="sourcePoint" />
             <mxPoint x="690" y="100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="S0NFjWJbHmRmIEwgqeIY-32" value="Assumption: At most one professor &lt;br&gt;can be the chairman of many departments" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="320" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
